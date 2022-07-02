@@ -1,0 +1,7 @@
+Autor: Maza, Laura Cecilia
+
+Proyecto: pequeño sistema de facturacion
+
+Clase principal: Ventas
+
+Objetivo: realizar la carga de facturación en el sistema y realizar diferentes tipos de resúmenes.
